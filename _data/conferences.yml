@@ -1,3 +1,17 @@
+- title: ACL
+  year: 2025
+  id: acl25
+  link: https://2025.aclweb.org/
+  deadline: '2025-02-15 23:59:00'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: July 27-August 1, 2025
+  start: 2025-07-27
+  end: 2025-08-01
+  hindex: 215
+  sub: NLP
+  note: All submissions should be done through ARR. More info <a href="https://2025.aclweb.org/calls/main_conference_papers/">here</a>.
+
 - title: AISTATS
   year: 2025
   id: aistats25
